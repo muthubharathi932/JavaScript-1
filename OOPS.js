@@ -6,7 +6,6 @@ class water_melon {
 const quality = new water_melon
 quality.fruit()
 
-
 //Abstraction
 class orange {
    constructor(){
