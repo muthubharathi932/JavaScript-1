@@ -11,7 +11,7 @@ var a = 20;
 console.log(a)  // Var can be redeclared and updated (function or global scope variable)
 
 //#Let type
-let $a1 = 30;
+let $a1 = 20;
  $a1 = 31;
 console.log($a1) // Let cannot be redeclared but can be updated (block scope variable)
 
